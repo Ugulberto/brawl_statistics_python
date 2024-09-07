@@ -2,7 +2,7 @@
 This repository uses the power of python's matplotlib library to make some calculations around the tier_list.json data:
 
 ## meta_points
-I defined "meta_points" as the sum of the stars ot per brawler in every tier list. For exmaple, if there were two tier lists, and a brawler (i.e. Colt) got 2 stars in one and 3 in another, Colt's meta points will be 2 + 3 = 5.
+I defined "meta_points" as the sum of the stars per brawler in every tier list. For exmaple, if there were two tier lists, and a brawler (i.e. Colt) got 2 stars in one and 3 in another, Colt's meta points will be 2 + 3 = 5.
 
 ## meta_percentage
 The "meta_percentage" parameter is the percentage of stars got by a brawler, in reference to the maximum number of stars it could get.
