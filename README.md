@@ -18,7 +18,7 @@ This parameter refers to the mean of stars got by a brawler in every tier_list.
 It is calculated, as every mean, with this formula and knowing that meta_points = m, and the number of tier lists in which the brawler was involved = T,
 $$\frac{m}{T}$$
 
-## standard_deviation
+## standard_deviation
 This last parameter refers to the standard deviation related to a brawler's stars mean.
 Having in mind that stars_mean = m, tier lists in which the brawler was involved = T, and the list with all the points he got in every tier list = s,
 It is calculated using this formula:
